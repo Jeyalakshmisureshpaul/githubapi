@@ -1,0 +1,10 @@
+body{
+    background-color: lightgray;
+}
+
+h1{
+    text-align: center;
+    padding-top: 2%;
+    border-bottom: 2px solid black;
+    margin-bottom: 3%;
+}
